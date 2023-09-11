@@ -52,13 +52,9 @@ This my upgraded iteration Pupil Labs AOI (Area of Interest) Annotation Tool is 
 
 You can customize the analysis and metrics calculation by modifying the script's command-line arguments. Refer to the script's documentation for a list of available options.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
-This script was developed for use with Pupil Labs eye-tracking data.
+This script was developed from the original Pupil Labs developer Alpha Lab script for use with Pupil Labs eye-tracking data.
 Note: This tool is intended for research and analysis purposes. Make sure you have the necessary permissions to use eye-tracking data for your specific application.
 
 Feel free to contribute to this project or report any issues you encounter.
